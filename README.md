@@ -1,5 +1,5 @@
 # react-r3f-tutorial002
-React +TypescriptのWebアプリで、React Three Fiberのtutorialその2。<br/>
+React +TypescriptのWebアプリで、React Three Fiberのtutorialその2。<br />
 react-r3f-tutorial001からコンポーネント化とprops化してみた版
 
 ## 完成形
